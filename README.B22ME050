@@ -1,0 +1,11 @@
+Certainly! Here's a brief guide on running a code in Google Colab:
+Accessing Google Colab: Go to the Google Colab website.
+Creating a new notebook or open an existing one.
+Writing or pasting the code into a code cell.
+Running the code cell by clicking the play button or pressing Shift + Enter.
+Viewing output directly below the code cell.
+Installing additional libraries using !pip install library_name if needed.
+Importing datasets or files using from google.colab import files and files.upload().
+Saving the work by clicking "File" > "Save" or using Ctrl + S.
+Downloading the notebook as a .ipynb file or sharing it directly.
+
